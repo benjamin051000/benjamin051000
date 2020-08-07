@@ -7,12 +7,11 @@
 - 💻 I’m currently working on an [FPGA-based computer architecture to program video games!](https://github.com/benjamin051000/baremetalgames)
 - 🌱 I’m currently learning regular expressions
 - 👯 I’m looking to collaborate with fellow Gators and software developers!
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about `discord.py` Discord bots!
-<!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a pianist and a trumpeter!
-
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 📫 How to reach me: ... -->
 <!-- 
 [![Benjamin's github stats](https://github-readme-stats.vercel.app/api?username=benjamin051000&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
