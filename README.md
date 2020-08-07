@@ -7,7 +7,7 @@
 - 💻 I’m currently working on an [FPGA-based computer architecture to program video games!](https://github.com/benjamin051000/baremetalgames)
 - 🌱 I’m currently learning regular expressions
 - 👯 I’m looking to collaborate with fellow Gators and software developers!
-- 💬 Ask me about `discord.py` Discord bots!
+- 💬 Ask me about [discord.py](https://github.com/Rapptz/discord.py) Discord bots!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a pianist and a trumpeter!
 <!-- - 🤔 I’m looking for help with ... -->
