@@ -13,6 +13,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a pianist and a trumpeter!
 
+<!-- 
 [![Benjamin's github stats](https://github-readme-stats.vercel.app/api?username=benjamin051000&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin051000)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=benjamin051000&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin051000" />
+</a>
