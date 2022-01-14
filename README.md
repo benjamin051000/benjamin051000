@@ -5,7 +5,7 @@
 -->
 ## I'm a Computer Engineering student at the University of Florida! 🐊
 - 💻 I’m currently working on an [FPGA-based computer architecture to program video games!](https://github.com/benjamin051000/baremetalgames)
-- 🌱 I’m currently learning [Docker](https://www.docker.com/) 🐳
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) 🦀
 - 💬 Ask me about [discord.py](https://github.com/Rapptz/discord.py) Discord bots!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a pianist and a trumpeter!
