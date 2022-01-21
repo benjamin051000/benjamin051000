@@ -9,7 +9,7 @@
 - 💬 Ask me about [discord.py](https://github.com/Rapptz/discord.py) Discord bots!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a pianist and a trumpeter!
-- 📫 How to reach me: [benjaminwheeler@ufl.edu](mailto:benjaminwheeler@ufl.edu)
+- 📫 How to reach me: [benjaminwheeler@ufl.edu](mailto:benjaminwheeler+ghprofile@ufl.edu)
 <!-- - 👯 I’m looking to collaborate with fellow Gators and software developers! -->
 <!-- - 🤔 I’m looking for help with ... -->
 
