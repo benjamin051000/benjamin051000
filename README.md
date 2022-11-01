@@ -3,12 +3,12 @@
 <!--
 **benjamin051000/benjamin051000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## I'm a Computer Engineering student at the University of Florida! 🐊
+## I'm a Computer Engineering Masters student at the University of Florida! 🐊
 - 💻 I’m currently working on a [GCC-targetable RISC-V RTL Architecture!](https://github.com/benjamin051000/riscv)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) 🦀
-- 💬 Ask me about [discord.py](https://github.com/Rapptz/discord.py) Discord bots!
+- 💬 Ask me about anything Linux! 🐧
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a pianist and a trumpeter!
+- ⚡ Fun fact: I am a pianist 🎹 and an outdoorsman 🌄!
 - 📫 How to reach me: [benjaminwheeler@ufl.edu](mailto:benjaminwheeler+ghprofile@ufl.edu)
 <!-- - 👯 I’m looking to collaborate with fellow Gators and software developers! -->
 <!-- - 🤔 I’m looking for help with ... -->
