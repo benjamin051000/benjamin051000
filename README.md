@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a pianist 🎹 and an outdoorsman 🌄!
 - 📑 My collection of [useful resources](https://github.com/benjamin051000/resources/wiki)
-- 📫 How to reach me: [benjaminwheeler@ufl.edu](mailto:benjaminwheeler+ghprofile@ufl.edu)
+- 📫 How to reach me: [benjaminwheeler0510@gmail.com](mailto:benjaminwheeler0510+ghprofile@gmail.com)
 - 🪙 Monero address: 47gttJeNPs3Gpotvxx9MPT1mrJfU4R6ogBD3wTXEuWQAbthqD9wqj6LGdsPnB2FJSRDrtnbC8LpkhJcWoZGACQAgDE8R2NY
 
 <!-- - 👯 I’m looking to collaborate with fellow Gators and software developers! -->
