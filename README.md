@@ -3,7 +3,7 @@
 <!--
 **benjamin051000/benjamin051000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## I'm a Computer Engineering Masters student at the University of Florida! 🐊
+## I'm a Computer Engineer! 🖥️🐊
 - 💻 I’m currently working on a [GCC-targetable RISC-V RTL Architecture!](https://github.com/benjamin051000/riscv)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) 🦀
 - 💬 Ask me about anything Linux! 🐧
