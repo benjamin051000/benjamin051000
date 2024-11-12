@@ -7,7 +7,6 @@
 - 💻 I’m currently working on a [GCC-targetable RISC-V RTL Architecture!](https://github.com/benjamin051000/riscv-business)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) 🦀
 - 💬 Ask me about anything Linux! 🐧
-- 👨🏻 Pronouns: He/Him
 - 😄 Fun fact: I am a pianist 🎹 and an outdoorsman 🌄!
 - 📑 My collection of [useful resources](https://github.com/benjamin051000/resources/wiki)
 - 📫 How to reach me: [benjaminwheeler0510@gmail.com](mailto:benjaminwheeler0510+ghprofile@gmail.com)
